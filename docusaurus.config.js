@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jugR0Jones', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
