@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkunity=self.webpackChunkunity||[]).push([[1331],{687:function(e){e.exports=JSON.parse('{"name":"Profiler","permalink":"/docs/tags/profiler","docs":[{"id":"performance/index","title":"Unity Performance","description":"Introduction","permalink":"/docs/performance/"}],"allTagsPath":"/docs/tags"}')}}]);

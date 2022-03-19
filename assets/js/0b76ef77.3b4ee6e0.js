@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkunity=self.webpackChunkunity||[]).push([[978],{5032:function(n){n.exports=JSON.parse('{"name":"Boxing","permalink":"/docs/tags/boxing","docs":[{"id":"performance/design-patterns/08-boxing","title":"Boxing","description":"","permalink":"/docs/performance/design-patterns/08-boxing"}],"allTagsPath":"/docs/tags"}')}}]);

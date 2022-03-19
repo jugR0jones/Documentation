@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkunity=self.webpackChunkunity||[]).push([[7898],{757:function(s){s.exports=JSON.parse('{"name":"Basics","permalink":"/docs/tags/basics","docs":[{"id":"basics/index","title":"Unity Basics","description":"Introduction","permalink":"/docs/basics/"}],"allTagsPath":"/docs/tags"}')}}]);
