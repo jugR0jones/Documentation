@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Team Mithril Unity Documentation',
   tagline: 'Dinosaurs are cool',
-  url: 'http://172.16.4.94',
+  url: 'https://jugr0jones.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Thoroughtec Simulations', // Usually your GitHub org/user name.
-  projectName: 'Team Mithrin Unity', // Usually your repo name.
+  organizationName: 'jugR0Jones', // Usually your GitHub org/user name.
+  projectName: 'Documentation', // Usually your repo name.
 
   presets: [
     [
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Team Mithril Unity Documentation',
+        title: 'Person Documentation Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
