@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Team Mithril Unity Documentation',
+  title: 'Personal Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://jugr0jones.github.io/',
   baseUrl: '/',
@@ -17,7 +17,6 @@ const config = {
   projectName: 'Documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
-  plugins: [""],
   presets: [
     [
       'classic',
