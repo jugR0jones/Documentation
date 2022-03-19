@@ -17,6 +17,7 @@ const config = {
   projectName: 'Documentation', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
+  plugins: [""],
   presets: [
     [
       'classic',
